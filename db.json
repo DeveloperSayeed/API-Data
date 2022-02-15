@@ -1,0 +1,298 @@
+{
+    "developer" : [
+        {
+            "id"         : 1,
+            "name"       :"Abu Sayeed Riday",
+            "age"        : 25,
+            "Location"   : "Comilla",
+            "skill"      : "JavaScprit Developer",
+            "photo"      : "https://wonderlife.pe/wp-content/uploads/2018/01/img-team-member-career-03.jpg"
+        },
+        {
+            "id"         : 2,
+            "name"       :"Abu Sufian",
+            "age"        : 35,
+            "Location"   : "Dhaka",
+            "skill"      : "Wordpress Developer",
+            "photo"      : "https://audifintax.com/wp-content/uploads/2017/04/team1.jpg"
+        },
+        {
+            "id"         : 3,
+            "name"       :"Anamul Huaqe",
+            "age"        : 21,
+            "Location"   : "Sylet",
+            "skill"      : "PHP Developer",
+            "photo"      : "https://www.ultimatebeaver.com/wp-content/uploads/2021/04/photo-gallery-img-02.jpg"
+        },
+        {
+            "id"         : 4,
+            "name"       :"Anada Kumar Saha",
+            "age"        : 21,
+            "Location"   : "Barisal",
+            "skill"      : "Pyton Developer",
+            "photo"      : "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png"
+        },
+        {
+            "id"         : 5,
+            "name"       :"Shimul",
+            "age"        : 25,
+            "Location"   : "Comilla",
+            "skill"      : "Pyton Developer",
+            "photo"      : "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png"
+        },
+        
+        {
+            "id"         : 6,
+            "name"       :"Zain Kumar",
+            "age"        : 15,
+            "Location"   : "Dhaka",
+            "skill"      : "IOS Developer",
+            "photo"      : "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png"
+        },
+        {
+            "id"         : 7,
+            "name"       :"Ujjol Mia",
+            "age"        : 15,
+            "Location"   : "Dinajpur",
+            "skill"      : "Apps Developer",
+            "photo"      : "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png"
+        }
+        
+    ],
+    "student_mark" : [
+        {
+            "id"            :1,
+            "name"          :"Abu Sayeed Riday",
+            "age"           :15,
+            "class"         :10,
+            "gender"        :"male",
+            "photo"         :"https://audifintax.com/wp-content/uploads/2017/04/team1.jpg",
+            "ban"           :85,
+            "math"          :80,
+            "eng"           :75,
+            "acc"           :90,
+            "eco"           :65,
+            "hist"          :70,
+            "rel"           :95
+        },
+        {
+            "id"            :2,
+            "name"          :"Abu Rahain",
+            "age"           :19,
+            "class"         :10,
+            "gender"        :"male",
+            "photo"         :"https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png",
+            "ban"           :85,
+            "math"          :87,
+            "eng"           :65,
+            "acc"           :80,
+            "eco"           :95,
+            "hist"          :40,
+            "rel"           :65
+        },
+        {
+            "id"            :3,
+            "name"          :"Nur Amin",
+            "age"           :19,
+            "class"         :10,
+            "gender"        :"male",
+            "photo"         :"https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-01.png",
+            "ban"           :45,
+            "math"          :80,
+            "eng"           :75,
+            "acc"           :50,
+            "eco"           :65,
+            "hist"          :70,
+            "rel"           :95
+        },
+        {
+            "id"            :4,
+            "name"          :"Abu Sufain",
+            "age"           :14,
+            "class"         :10,
+            "gender"        :"male",
+            "photo"         :"https://unitedthemes.com/wp-content/uploads/2018/09/team1.jpg",
+            "ban"           :65,
+            "math"          :70,
+            "eng"           :95,
+            "acc"           :50,
+            "eco"           :35,
+            "hist"          :50,
+            "rel"           :75
+        },
+        {
+            "id"            :5,
+            "name"          :"Ananda Kumar Saha",
+            "age"           :12,
+            "class"         :10,
+            "gender"        :"male",
+            "photo"         :"https://unitedthemes.com/wp-content/uploads/2018/09/team3.jpg",
+            "ban"           :55,
+            "math"          :60,
+            "eng"           :75,
+            "acc"           :80,
+            "eco"           :65,
+            "hist"          :70,
+            "rel"           :85
+        },
+        {
+            "id"            :6,
+            "name"          :"Bijoy Kumar Saha",
+            "age"           :12,
+            "class"         :10,
+            "gender"        :"Male",
+            "photo"         :"https://jc.training/wp-content/uploads/2015/01/team-member-04.jpg",
+            "ban"           :55,
+            "math"          :60,
+            "eng"           :75,
+            "acc"           :80,
+            "eco"           :65,
+            "hist"          :70,
+            "rel"           :85
+        },
+        {
+            "id"            :7,
+            "name"          :"Rupa Roy",
+            "age"           :11,
+            "class"         :10,
+            "gender"        :"Female",
+            "photo"         :"https://www.guamhomesforsaleandrent.com/sites/default/files/team10.jpg",
+            "ban"           :85,
+            "math"          :40,
+            "eng"           :45,
+            "acc"           :60,
+            "eco"           :65,
+            "hist"          :70,
+            "rel"           :85
+        },
+        {
+            "id"            :8,
+            "name"          :"Sarmin Sultana",
+            "age"           :11,
+            "class"         :10,
+            "gender"        :"Female",
+            "photo"         :"https://nyrodha.com/wp-content/uploads/2021/11/team-member-img1-2.jpg",
+            "ban"           :55,
+            "math"          :60,
+            "eng"           :75,
+            "acc"           :80,
+            "eco"           :65,
+            "hist"          :70,
+            "rel"           :85
+        },
+        {
+            "id"            :9,
+            "name"          :"Tasmiya AKther ",
+            "age"           :11,
+            "class"         :10,
+            "gender"        :"Female",
+            "photo"         :"https://www.guamhomesforsaleandrent.com/sites/default/files/team10.jpg",
+            "ban"           :55,
+            "math"          :60,
+            "eng"           :75,
+            "acc"           :80,
+            "eco"           :65,
+            "hist"          :70,
+            "rel"           :25
+        },
+        {
+            "id"            :10,
+            "name"          :"Mukti Akter",
+            "age"           :15,
+            "class"         :10,
+            "gender"        :"Female",
+            "photo"         :"https://www.marketing-a2z.com/wp-content/uploads/2019/01/team_member2.jpg",
+            "ban"           :65,
+            "math"          :50,
+            "eng"           :35,
+            "acc"           :30,
+            "eco"           :65,
+            "hist"          :50,
+            "rel"           :45
+        }
+    ],
+
+
+"shop" : [
+
+    {
+        "id"        : 1,
+        "name"      : " Bajaj Pulsar 150 Single Disc",
+        "img"       : "https://dalalplus.com/public/uploads/all/XYItD8vwNUCDEzAECX8mSRx4ArvvgSFfJa02JQ8j.jpg",
+        "salprice"  : 198000,
+        "regprice"  : 210000
+
+    },
+    {
+        "id"        : 2,
+        "name"      : " Yamaha FZS Fi v3 ABS – CBU",
+        "img"       : "https://dalalplus.com/public/uploads/all/WxVnyCZ9cTJZs0JdHPYCJL8HZwREXJBU768lJjBT.jpg",
+        "salprice"  : 188000,
+        "regprice"  : 200000
+
+    },
+    {
+        "id"        : 3,
+        "name"      : " Bajaj Discover 125 Disc",
+        "img"       : "https://dalalplus.com/public/uploads/all/WxVnyCZ9cTJZs0JdHPYCJL8HZwREXJBU768lJjBT.jpg",
+        "salprice"  : 180000,
+        "regprice"  : 200000
+
+    },
+    {
+        "id"        : 4,
+        "name"      : "Yamaha R15 V3 Indian Version Dual ABS – CBU",
+        "img"       : "https://dalalplus.com/public/uploads/all/puCAXCqzOWSYavfCdTxXjKpwxwITrwbgCt7lfFBi.jpg",
+        "salprice"  : 165000,
+        "regprice"  : 1950000
+
+    },
+    {
+        "id"        : 5,
+        "name"      : "Bajaj Pulsar NS160 Refresh Fi ABS",
+        "img"       : "https://dalalplus.com/public/uploads/all/YWNSwQ4qVGIoFWgA38y8xiT8OltSdJdl3ybvA5rx.jpg",
+        "salprice"  : 175000,
+        "regprice"  : 2150000
+
+    },
+    {
+        "id"        : 6,
+        "name"      : "Yamaha MT 15 – CBU",
+        "img"       : "https://dalalplus.com/public/uploads/all/Sp4umDhBQSsHVJM2S9wL7vCe7XXiqUQjmpPmkLxu.jpg",
+        "salprice"  : 185000,
+        "regprice"  : 2250000
+
+    },
+    {
+        "id"        : 7,
+        "name"      : "Honda X-Blade 160",
+        "img"       : "https://dalalplus.com/public/uploads/all/oCehQPv6s99zNpjmC8qZJ3XInIkhBOFkXHV61ItG.jpg",
+        "salprice"  : 179000,
+        "regprice"  : 2210000
+
+    },
+    {
+        "id"        : 8,
+        "name"      : "Bajaj Discover 100",
+        "img"       : "https://dalalplus.com/public/uploads/all/oCehQPv6s99zNpjmC8qZJ3XInIkhBOFkXHV61ItG.jpg",
+        "salprice"  : 139000,
+        "regprice"  : 1510000
+
+    }
+],
+
+"brand" : [
+    {
+        "name"     : "TVS"
+    },
+    {
+        "name"     : "honda"
+    },
+    {
+        "name"     : "Hero"
+    },
+    {
+        "name"     : "Palcer"
+    }
+]
+}
